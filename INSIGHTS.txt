@@ -1,0 +1,7 @@
+INSIGHTS:
+
+1. Category-wise analysis shows certain product categories contribute significantly more to overall sales.
+
+2. A small group of customers generates a large share of total revenue, indicating revenue concentration.
+
+3. Product-level sales analysis highlights top-performing products that drive most of the revenue.
