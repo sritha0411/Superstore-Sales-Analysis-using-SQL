@@ -1,6 +1,6 @@
 # Superstore-Sales-Analysis-using-SQL
 
-**Project Overview**
+**Project Overview:**
 
 This project focuses on analyzing Superstore sales data using MySQL.
 The objective is to design a structured database from raw transactional data and perform relational analysis using SQL JOINs to extract meaningful business insights.
