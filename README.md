@@ -5,6 +5,8 @@
 This project focuses on analyzing Superstore sales data using MySQL.
 The objective is to design a structured database from raw transactional data and perform relational analysis using SQL JOINs to extract meaningful business insights.
 
+---
+
 **The project demonstrates:**
 
 Data modeling
@@ -13,12 +15,16 @@ SQL joins (INNER, LEFT)
 Aggregation and grouping
 Exporting query results to CSV
 
+---
+
 **Tools & Technologies**
 
 Database: MySQL
 IDE: MySQL Workbench
 Language: SQL
 Data Format: CSV
+
+---
 
 **Dataset Description**
 
@@ -28,6 +34,8 @@ Order details (Order ID, Order Date, Ship Date, Ship Mode)
 Customer details (Customer ID, Customer Name, Segment, Region)
 Product details (Product ID, Category, Sub-Category, Product Name)
 Sales value
+
+---
 
 **Database Schema Design**
 
@@ -68,6 +76,8 @@ Category
 Sub-Category
 Product Name
 
+---
+
 **SQL Operations Performed**
 ✔ Table Creation
 
@@ -84,6 +94,8 @@ JOIN between orders and products to calculate category-wise and product-wise sal
 Category-wise total sales
 Top 5 customers by total sales
 Product-wise revenue analysis
+
+---
 
 **Output Files**
 
