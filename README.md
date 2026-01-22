@@ -41,7 +41,7 @@ Sales value
 
 To improve data organization and enable efficient analysis, the raw dataset was split into three relational tables:
 
-1️. **Orders Table**
+1️. **Orders Table:**
 
 Stores order-level transaction details.
 
@@ -54,7 +54,7 @@ Customer ID
 Product ID
 Sales
 
-2️. **Customers Table**
+2️. **Customers Table:**
 
 Stores customer-related information.
 
@@ -67,7 +67,7 @@ State
 Postal Code
 Region
 
-3️. **Products Table**
+3️. **Products Table:**
 
 Stores product-related information.
 
@@ -79,6 +79,7 @@ Product Name
 ---
 
 **SQL Operations Performed**
+
 ✔ Table Creation
 
 Created normalized tables (orders, customers, products) from the raw dataset.
@@ -99,11 +100,11 @@ Product-wise revenue analysis
 
 **Output Files**
 
-task4_joins.sql
+task4_joins.sql - 
 Contains all SQL queries including table creation and join operations.
 
-joined_output.csv
+joined_output.csv - 
 Exported result showing product-wise revenue and category details.
 
-insights.txt
+insights.txt - 
 Summarized business insights derived from the analysis.
